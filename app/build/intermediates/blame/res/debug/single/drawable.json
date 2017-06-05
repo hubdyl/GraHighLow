@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/spades_queen.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/spades_queen.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/green_back.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/green_back.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/hearts_king.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/hearts_king.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/diamonds_jack.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/diamonds_jack.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/clubs_two.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/clubs_two.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/hearts_three.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/hearts_three.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/spades_nine.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/spades_nine.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/clubs_seven.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/clubs_seven.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/hearts_ace.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/hearts_ace.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/diamonds_seven.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/diamonds_seven.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/diamonds_ace.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/diamonds_ace.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/spades_four.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/spades_four.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/hearts_two.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/hearts_two.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/spades_ten.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/spades_ten.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/spades_king.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/spades_king.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/hearts_queen.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/hearts_queen.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/hearts_six.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/hearts_six.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/clubs_five.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/clubs_five.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/spades_eight.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/spades_eight.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/hearts_ten.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/hearts_ten.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/spades_six.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/spades_six.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/clubs_ace.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/clubs_ace.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/hearts_four.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/hearts_four.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/clubs_eight.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/clubs_eight.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/spades_two.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/spades_two.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/diamonds_four.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/diamonds_four.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/hearts_jack.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/hearts_jack.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/clubs_nine.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/clubs_nine.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/diamonds_ten.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/diamonds_ten.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/spades_seven.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/spades_seven.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/diamonds_three.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/diamonds_three.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/card_back.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/card_back.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/clubs_ten.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/clubs_ten.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/diamonds_nine.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/diamonds_nine.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/clubs_six.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/clubs_six.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/clubs_queen.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/clubs_queen.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/clubs_king.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/clubs_king.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/diamonds_queen.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/diamonds_queen.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/diamonds_five.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/diamonds_five.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/spades_jack.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/spades_jack.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/spades_ace.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/spades_ace.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/diamonds_eight.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/diamonds_eight.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/hearts_five.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/hearts_five.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/clubs_four.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/clubs_four.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/hearts_seven.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/hearts_seven.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/clubs_jack.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/clubs_jack.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/spades_three.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/spades_three.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/diamonds_king.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/diamonds_king.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/clubs_three.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/clubs_three.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/hearts_nine.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/hearts_nine.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/hearts_eight.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/hearts_eight.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/diamonds_six.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/diamonds_six.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/diamonds_two.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/diamonds_two.png"
+    },
+    {
+        "merged": "/home/hubert/Pulpit/GraHighLow/app/build/intermediates/res/merged/debug/drawable/spades_five.png",
+        "source": "/home/hubert/Pulpit/GraHighLow/app/src/main/res/drawable/spades_five.png"
+    }
+]

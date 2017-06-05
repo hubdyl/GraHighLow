@@ -1,0 +1,7 @@
+#Tue Jun 06 00:00:28 CEST 2017
+base.0=/home/hubert/Pulpit/GraHighLow/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7601c149b6c6160937b038c5c749b5b47613d742
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/hubert/Pulpit/GraHighLow/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7cda721047261cc08189129e19a17262532c4c72/classes.dex
+base.1=/home/hubert/Pulpit/GraHighLow/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7cda721047261cc08189129e19a17262532c4c72
+file.0=/home/hubert/Pulpit/GraHighLow/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7601c149b6c6160937b038c5c749b5b47613d742/classes.dex
