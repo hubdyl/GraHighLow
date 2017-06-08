@@ -52,7 +52,7 @@ public class Card {
 	
 	public int getCardDrawableId(Context c){
 		int resID = c.getResources().getIdentifier(this.getSuitAsString().toLowerCase() + "_" + this.getValueAsString().toLowerCase(),
-				"drawable","com.brianstoner.games.highlow1");
+				"drawable","com.brojewski.konrad.highlow");
 		return resID;
 	}
 	
